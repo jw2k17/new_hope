@@ -1,3 +1,4 @@
 4 are you ready for Metric
 5 are you ready for permission setup
 6 are you ready for training
+7 adding this new line from gwang
